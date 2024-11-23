@@ -9,6 +9,7 @@ body{
     align-items: center;
     height: 96vh;
     margin: 0;
+    background-color: black;
 }
 .margen1{
     background-color: var(--color);
